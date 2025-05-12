@@ -1,0 +1,1 @@
+# solary-spa-version
