@@ -1,0 +1,5 @@
+Contact: security@solary.com
+Expires: 2025-12-31T00:00:00.000Z
+Preferred-Languages: en, pt
+Policy: https://solary.app/security-policy
+Hiring: https://solary.app/security-hiring
